@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "android_device_sony_shinano-common",
+    "target_path": "device/sony/shinano-common"
+  },
+  {
+    "repository": "android_vendor_sony_shinano-common",
+    "target_path": "vendor/sony/shinano-common"
+  },
+  {
+    "repository": "android_vendor_sony_castor_windy",
+    "target_path": "vendor/sony/castor_windy"
+  }
+]
