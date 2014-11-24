@@ -1,4 +1,4 @@
-# Copyright (C) 2013 The CyanogenMod Project
+# Copyright (C) 2013 The MoKee OpenSource Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -19,7 +19,7 @@ TARGET_SPECIFIC_HEADER_PATH += device/sony/castor_windy/include
 
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/sony/castor_windy/bluetooth
 
-BOARD_HARDWARE_CLASS += device/sony/castor_windy/cmhw
+BOARD_HARDWARE_CLASS += device/sony/castor_windy/mkhw
 
 # For two-stage boot configuration
 TARGET_RECOVERY_DEVICE_DIRS := device/sony/castor_windy
